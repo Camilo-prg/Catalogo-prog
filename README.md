@@ -31,7 +31,7 @@ Este proyecto es un prototipo en Java (usando **JFrame** y **NetBeans**) que imp
 ## 🔐 Credenciales de prueba
 
 - Usuario: Admin
-- Contraseña: Admin
+- Contraseña: 1234
 
 ---
 
